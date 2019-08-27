@@ -24,7 +24,7 @@ Other systems have not been tested, and it is advised to have caution with untes
 
 * Once the game is completed you'll either be informed whether you have won, lost or drawn.
 
-## Example Gameplay
+## Example Runtime
 <pre>
 C\...\RPN_Evaluator_jar>java -jar RPN_Evaluator.jar
 
