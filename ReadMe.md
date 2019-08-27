@@ -1,4 +1,4 @@
-# Reverse Polish Notation Expression Evaluator (Java Binary Tree)
+# Reverse Polish Notation Expression Parser (Java Binary Tree)
 
 ## Platform Recommendation:
 * This program has been run on Windows 10.0.15063 build 15063 and Mac OS X, developed using Java version 12.0.2, Intellij version 2018.3.5
