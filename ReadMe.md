@@ -16,7 +16,7 @@
 **NOTE: You must input a semicolon at the end of the expression so that the parser can identify the end of the formula.**  
 * Once the processing of the expression is completed; the reverse polish notation will be output, the infix notation will be output & the result of the formula will be output.  
 **NOTE: Double values will be rounded down (*i.e. 0.8965 = 0*).**  
-* Invalid formula notations will not be accepted and will output an exception, which requires the program to be resarted.
+* Invalid formula notations will not be accepted and will output an exception, which requires the program to be resarted.  
 **NOTE: Upon the output of the diffrent notations, you will be prompted whether you wish to restart the program or terminate it.**  
 * Once the game is completed you'll either be informed whether you have won, lost or drawn.
 
